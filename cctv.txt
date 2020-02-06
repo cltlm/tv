@@ -1,15 +1,4 @@
-CNN,p2p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-CNN,P2p://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts
-CNN,vjms://121.14.222.75:8500:3502/live/cid=428
-CNN,vjms://23.237.33.155:8500:3502/live/cid=428
-BBC,P2p://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts
-BBC,vjms://58.215.133.185:8500:3502/live/cid=418
-BBC,vjms://121.14.222.75:8500:3502/live/cid=418
-BBC,vjms://23.237.33.155:8500:3502/live/cid=418
-BBC World News,http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
-BBC World News,http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-FOOD-NETWORK,P2p://51.79.41.138:18912/5b593b0c000caf35d376a3492c6338d5.ts
+
 联合国 Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 联合国 Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
