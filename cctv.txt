@@ -1,6 +1,31 @@
-小太阳,P2p://lino.homeunix.com:6007/5b2c879d000424bd067dc3ee45d96446.ts
-欢喜,P2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
-双星,P2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts
-AEC,P2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts
-AOD,P2p://lino.homeunix.com:6007/5b2c8894000eb34506818b752bbe53c4.ts
+CNN,p3p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
+CNN,P2p://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts
+CNN,vjms://121.14.222.75:8500:3502/live/cid=428
+CNN,vjms://23.237.33.155:8500:3502/live/cid=428
+BBC,P3p://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts
+BBC,vjms://58.215.133.185:8500:3502/live/cid=418
+BBC,vjms://121.14.222.75:8500:3502/live/cid=418
+BBC,vjms://23.237.33.155:8500:3502/live/cid=418
+BBC World News,http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+BBC World News,http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+FOOD-NETWORK,P2p://51.79.41.138:18912/5b593b0c000caf35d376a3492c6338d5.ts
+联合国 Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+联合国 Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+凤凰香港,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视台,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8EXTINF:-1 tvg-id=141 tvg-name=凤凰中文 tvg-logo=http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png group-title=香港,凤凰中文台
+凤凰资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台,http://112.50.243.10/PLTV/88888888/224/3221225901/3.m3u8
+凤凰资讯台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯台,http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
+凤凰资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8
+有线新闻台,http://wsvpull.utoooo.com/live/ews33475.flv
+
 
